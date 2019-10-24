@@ -6,6 +6,7 @@ import android.support.annotation.Nullable;
 import android.util.Log;
 
 /**
+ * https://blog.csdn.net/zjws23786/article/details/51800929
  */
 public class MessageService extends IntentService {
 
